@@ -1,0 +1,22 @@
+/* styling for logiin page*/
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    max-width: 400px;
+    margin: 70px auto;
+    padding: 30px;
+    border: 1px solid #0f0f0f;
+    
+}
+/* styling labels*/
+label, input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+input[type="log in"] {
+    width: auto;
+}

@@ -1,0 +1,21 @@
+/*styling for signin page */
+body {
+    font-family: Arial, sans-serif;
+}
+/* form styling */
+form {
+    max-width: 300px;
+    margin: 60px auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(116, 63, 160, 0.2);
+}
+/* styling label(username and password) */
+label, input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+input[type="submit"] {
+    width: auto;
+}
